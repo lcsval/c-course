@@ -1,21 +1,17 @@
 #include <stdio.h>
-#include "pilhaL.h"
+#include "fila.h"
 
 int main(int argc, char** argv)
 {
-	Pilha* p;
+	Fila* f = criar_fila();
 	
-	p = criar_pilha();
-	push(p, 10);
-	push(p, 20);
-	push(p, 30);
-	printf("Topo: %.2f\n", topo(p));
-	pop(p);
-	printf("Topo: %.2f\n", topo(p));
-	pop(p);
-	printf("Topo: %.2f\n", topo(p));
-	pop(p);
-	printf("Topo: %.2f\n", topo(p));
-	pop(p);
+	inserir(f, 10);
+	inserir(f, 50);
+	inserir(f, 30);
+	imprimir(f);
+	remover(f);
+	printf("\n");
+	imprimir(f);
+	
 	return 0;
 }

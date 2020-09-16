@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="Yes" Tabpos="1" TopLine="1">
+			<Cursor Line="13" Column="15"/>
+		</File>
+		<File Name="fila.c" Top="No" Tabpos="2" TopLine="30">
+			<Cursor Line="81" Column="14"/>
+		</File>
+		<File Name="fila.h" Top="No" Tabpos="3" TopLine="1">
+			<Cursor Line="9" Column="1"/>
+			<Selection Line="9" Column="24"/>
+		</File>
+	</Files>
+</Layout>
