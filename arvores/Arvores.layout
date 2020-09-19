@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="Yes" Tabpos="1" TopLine="1">
+			<Cursor Line="12" Column="12"/>
+		</File>
+		<File Name="arvore.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="9" Column="26"/>
+		</File>
+		<File Name="arvore.c" Top="No" Tabpos="3" TopLine="17">
+			<Cursor Line="69" Column="1"/>
+		</File>
+	</Files>
+</Layout>
